@@ -1,23 +1,41 @@
 # Dallas Waldrop
 
-Backend developer focused on .NET / C# / Azure with 9+ years of experience building enterprise software and API integrations.
+Software engineer focused on **C# / .NET, Azure, and SQL**, with 10+ years of experience building and supporting business software. I work on backend services and enterprise integrations, including the React and Vue interfaces around them.
 
-**Toledo, OH** | [dallaswaldrop.com](https://dallaswaldrop.com) | [LinkedIn](https://www.linkedin.com/in/dallas-waldrop/)
+**Toledo, Ohio · Open to remote software engineering opportunities**
+
+[Portfolio and résumé](https://www.dallaswaldrop.com/) · [LinkedIn](https://www.linkedin.com/in/dallas-waldrop/)
+
+## Engineering work
+
+- **Carrier integrations:** owned the Banner Life submission integration and built a Holds & Releases workflow on the Edward Jones e-application platform at Porch Software. [Read the workflow case study](https://www.dallaswaldrop.com/writing/holds-and-releases.html).
+- **Cloud messaging:** designed and built an Azure queue-based system for SMS, email, and Firebase push notifications at Hamilton Manufacturing.
+- **Data workflows:** built Azure Data Factory pipelines to archive operational data to Databricks and Synapse Analytics.
+
+The public projects below are personal work. Employer systems are described in the portfolio.
+
+## Selected projects
+
+| Project | What it demonstrates | Explore |
+| --- | --- | --- |
+| **ResumeRadar** | ASP.NET Core API, Vue/TypeScript interface, GitHub OAuth, and Claude API integration for résumé/job-posting comparisons | [Source](https://github.com/FullMoonFriend/resume-radar) · [App](https://resumeradar.dallaswaldrop.com/) (GitHub sign-in) |
+| **PlateCheck** | Blazor WebAssembly and Azure Functions, with photo analysis and VIN decoding through separate external APIs | [Source](https://github.com/FullMoonFriend/PlateCheck) · [App](https://platecheck.dallaswaldrop.com/) |
+| **AICommenter** | A Visual Studio extension built in 2022 to generate code comments and XML documentation through the OpenAI API | [Source](https://github.com/FullMoonFriend/AICommenter) · [Engineering notes](https://www.dallaswaldrop.com/writing/ai-commenter.html) |
 
 ## Stack
 
-**Backend:** C#, .NET 8, ASP.NET Core, Azure, SQL Server, Entity Framework Core, PostgreSQL
+**Backend and data:** C#, .NET, ASP.NET Core, SQL Server, Entity Framework Core
 
-**Frontend:** TypeScript, Node.js, Vue.js, React
+**Interfaces:** TypeScript, React, Vue, Blazor
 
-**Infrastructure:** Docker, CI/CD, Git
+**Cloud and integration:** Azure Functions, Service Bus, Storage Queues, Data Factory, ACORD XML, SFTP
 
-**AI & Tooling:** Claude API, Claude Code, GitHub Copilot
+**Development:** Unit testing, Git, CI/CD, Claude API, Claude Code, GitHub Copilot
 
-## Current Project
+## Also exploring
 
-**The Long Road** - A turn-based pixel-art roguelike RPG with AI-generated narrative. Built with TypeScript, Phaser 3, Node.js, PostgreSQL, and Claude Sonnet.
+**The Long Road:** a personal experiment with a turn-based pixel-art RPG and AI-generated narrative.
 
 ## Background
 
-Started with English and Literature at UNC-Chapel Hill, then pivoted to computing. Earned an MS in Information Systems from the University of South Alabama. Spent the last 9+ years building enterprise .NET applications, insurance platform integrations, and cloud-native services on Azure.
+I studied English and Literature at UNC-Chapel Hill before moving into software, and earned a **Master of Computer and Information Science** from the University of South Alabama. I enjoy work that rewards understanding the whole system, and learning the tools a problem needs.
